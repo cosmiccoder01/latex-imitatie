@@ -1,6 +1,6 @@
 # Latex-imitatie
 
-This repository is a fork from the original latex-imitatie version, where additional minor features were added, with official-title-page specific for University of Groningen. 
+This repository is a fork from the original [`latex-imitatie`](https://github.com/WetenSchaap/latex-imitatie.git) version, where additional minor features were added, with official-title-page specific for University of Groningen. 
 
 This repository contains a LaTeX template for dissertations suitable for Dutch universities. It was specifically designed for the University of Amsterdam, but it should be (more-or-less) compatible with most other Dutch universities.
 
